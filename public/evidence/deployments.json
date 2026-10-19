@@ -1,0 +1,34 @@
+{
+  "notice": "Historical test deployments; deployment is distinct from successful workflow evidence.",
+  "deployments": [
+    {
+      "deployed": true,
+      "network": "GenLayer Studionet",
+      "chainId": 61999,
+      "rpc": "https://studio.genlayer.com/api",
+      "explorer": "https://explorer-studio.genlayer.com",
+      "address": "0x4Bb815B685870740B297C18DaB99A1724a0c45A9",
+      "sourceSha256": "6af6152570388b867ab5bd2d7eb555958c3ef3bb6d0ce76c4069aace8147b3c0",
+      "deployer": "0x5A361B2FD8D44b2a80a5687C6Ea9AFEAB2341ace",
+      "deploymentTransaction": "0xa832e9a9104e78fd988a16a53322c33f66c6462c2f0dcd966e8b3c67458547b0",
+      "deploymentReceipt": {
+        "status": "ACCEPTED",
+        "execution": "SUCCESS",
+        "executionResult": "SUCCESS",
+        "consensusResult": "MAJORITY_AGREE",
+        "leaderOnly": false,
+        "votes": {
+          "0x17ac0CaefB18205c737e64ee582c9245A28ca1f9": "agree",
+          "0x2FcBC452425f2F1e102c5c04b4331fcB46ee1c00": "agree",
+          "0x8a876C3F3a4783Bd123982bcBF3c672dc0239004": "agree",
+          "0xe7eEe8a1c1690b0322d795B80A76ab2Cd1a0eAFd": "agree",
+          "0xf29b6947ed298d139FC2655DB15D868C9AbB3091": "agree"
+        },
+        "createdAt": "2026-10-19T09:36:03.648802+00:00",
+        "observedAt": "2026-10-19T09:36:13.984Z"
+      },
+      "verifiedAt": "2026-10-19T09:36:13.984Z",
+      "notice": "All actors are project-controlled. Studionet only. Real W3C fixed-version source documents, bounded three-criterion local comparison. No whole-standard compliance, legal interpretation, or site accessibility claim."
+    }
+  ]
+}

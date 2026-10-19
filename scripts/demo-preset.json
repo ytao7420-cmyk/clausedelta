@@ -1,0 +1,8 @@
+{
+  "notice": "All actors are project-controlled. Studionet only. Real W3C fixed-version source documents, bounded three-criterion local comparison. No whole-standard compliance, legal interpretation, or site accessibility claim.",
+  "comparisons": [
+    {"id":"parsing-removed","criterion":"parsing","expected":"REMOVED"},
+    {"id":"visible-unchanged","criterion":"focus-visible","expected":"UNCHANGED"},
+    {"id":"not-obscured-added","criterion":"focus-not-obscured-minimum","expected":"ADDED"}
+  ]
+}

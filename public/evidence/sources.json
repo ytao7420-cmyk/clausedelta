@@ -1,0 +1,21 @@
+{
+  "notice": "Unmodified fixed W3C Recommendation snapshots. Source license belongs to W3C; see THIRD_PARTY_NOTICES.md. No claim of whole-standard conformance.",
+  "sources": [
+    {
+      "url": "https://www.w3.org/TR/2018/REC-WCAG21-20180605/",
+      "file": "wcag21.html",
+      "sha256": "a8793e95937866bacd03d9b421e4e889bc7811b84d0ddec6ed8c790f8e7f67dd",
+      "bytes": 311199,
+      "retrievedAt": "2026-10-19T09:29:55.406Z",
+      "status": 200
+    },
+    {
+      "url": "https://www.w3.org/TR/2023/REC-WCAG22-20231005/",
+      "file": "wcag22.html",
+      "sha256": "9307b40f5dcd8d988444184de6d07efdf384ba744bf364bae3fd712282868508",
+      "bytes": 511893,
+      "retrievedAt": "2026-10-19T09:29:56.377Z",
+      "status": 200
+    }
+  ]
+}
